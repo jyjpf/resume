@@ -2,7 +2,6 @@
 
 ###### 기본정보  
 
-Photo      | Future
 -----------|--------------
 Name       | 장영재
  - English | Young jae Jang
