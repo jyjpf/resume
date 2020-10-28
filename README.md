@@ -5,7 +5,7 @@
 Photo      |
 -----------|
 ![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg)
-홍길동
+장영재
  - English | Young jae Jang
  - Age        | 24
  - Birth Day  | 1997.09.08
@@ -36,10 +36,8 @@ middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
 ### 직장이력
 Period            | Company      | Part > Team                    
 ------------------|--------------|-----------------------------
-2011.10 - 2013.4  | Company Inc  | R&D > Mobile
-2010.05 - 2011.9  | Company Corp | Big Data > Visualize
-2008.08 - 2010.3  | Venture      | Web > UI
-2007.02 - 2008.8  | Company Name | Marketing 3
+2017.08 - 2017.09  | creative-band | 인턴
+
 
   
 ## 오픈소스 프로젝트 <small>(2012.03 ~ 현재)</small>
