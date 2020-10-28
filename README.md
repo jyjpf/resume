@@ -40,7 +40,7 @@ Period            | Company      | Part > Team
 
 
   
-## 오픈소스 프로젝트 <small>(2012.03 ~ 현재)</small>
+## 오픈소스 프로젝트 <small>(2020.07 ~ 현재)</small>
 * 프로젝트 공식 명칭
   - 소개  
   > 프로젝트에 대한 간략한 소개를 한다.  
@@ -79,15 +79,15 @@ Period            | Company      | Part > Team
 > - 받아쓰기 프로그램
 > - 공연 예매 프로그램
 
-### 진행중인 프로젝트 <small>(2013.04 ~ 현재)</small>
+### 진행중인 프로젝트 <small>(2020.06 ~ 현재)</small>
 
 * 프로젝트 명
-  - 소개  
-  > 모바일 앱으로 현재 3명의 멤버가 개발 진행 중  
+  - 인공지능 받아쓰기 프로그램  
+  > 현재 3명의 멤버가 개발 진행 중 
   - 사용기술  
-  > Node.js, Mongodb, APNS(Apple Notification), Gumby2 (Responsive CSS Framework)  
+  > Node.js, postgresql, vue.js, vuetify(Responsive CSS Framework), vuex, axios, restful, spring boot
   - 역할  
-  > RESTful API 디자인, 시스템(Node.js, Mongodb, APNS) 엔지니어링, 웹 사이트 개발  
+  > 프론트 및 DB, 웹 사이트 개발 
 
 ## 참여한 프로젝트 이력
 
