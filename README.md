@@ -71,7 +71,7 @@ Period            | Company      | Part > Team
   - 사용기술  
   > Node.js, postgresql, vue.js, vuetify(Responsive CSS Framework), vuex, axios, restful, spring boot
   - 역할  
-  > 프론트 및 DB, 웹 사이트 개발 
+  > 프론트 및 DB, 웹 사이트 개발, 서류 작성
 
 ## 참여한 프로젝트 이력
 
