@@ -2,7 +2,7 @@
 
 ###### 기본정보  
 
-Photo      |
+      |
 -----------|
 ![](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg)
 장영재
@@ -106,7 +106,7 @@ Period            | Company      | Part > Team
 2019.6.28 | 감성미디어를 통한 인터랙티브 스토리텔링(단국대) | ![](https://steemitimages.com/DQmeo.../image.png)
 2019.7.24 | 앙트러프러너십: 스타트업에 도전하는 길(울산대) |
 
-![drawing](./picture/KakaoTalk_20201028_183404429.jpg = 100x20)
+![drawing](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg =150x50)
 
 ## 소셜
 Site     | URL
