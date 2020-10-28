@@ -4,7 +4,7 @@
 
 Photo      | Future
 -----------|--------------
-![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg)
+!(https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg)
 Name       | 장영재
  - English | Young jae Jang
 Age        | 24
