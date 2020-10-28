@@ -103,7 +103,7 @@ Period            | Company      | Part > Team
 2016.10.10     | 경험디자인(연세대학교)   | http://scr.bi/xxxxxxx
 2017.2.13 | 서비스디자인(연세대학교) |
 2019.4.9 | 네트워크기초(성균관대학교) |
-2019.6.28 | 감성미디어를 통한 인터랙티브 스토리텔링(단국대) | ![] (https://github.com/jyjpf/resume/blob/main/picture/%EA%B0%90%EC%84%B1%EB%AF%B8%EB%94%94%EC%96%B4%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C%20%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81.JPG)
+2019.6.28 | 감성미디어를 통한 인터랙티브 스토리텔링(단국대) | ![](https://steemitimages.com/DQmeo.../image.png)
 2019.7.24 | 앙트러프러너십: 스타트업에 도전하는 길(울산대) |
 
 
@@ -113,7 +113,6 @@ Site     | URL
 Github   | https://github.com/jyjpf
 ATinvention | http://pano908.cafe24.com/
 facebook | https://www.facebook.com/ATInvention/
-
 
 <br><br>
 ---
