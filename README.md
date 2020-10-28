@@ -4,7 +4,7 @@
 
 Photo      |
 -----------|
-![](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg { width=50% })
+![](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg)
  - English | Young jae Jang
  - Age        | 24
  - Birth Day  | 1997.09.08
