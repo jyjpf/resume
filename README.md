@@ -112,11 +112,12 @@ Site     | URL
 ---------|-------------------------------
 Github   | https://github.com/jyjpf
 ATinvention | http://pano908.cafe24.com/
+facebook | https://www.facebook.com/ATInvention/
 
 
 <br><br>
 ---
-위의 사실은 GNU 정신에 의거하여 사실임을 증명하며, 만약 사실이 아닐 경우 MIT 라이센스로 공개해도 무방합니다.
+위의 자기소개서는 사실임을 증명합니다.
 
-YYYY년 MM월 DD일
-{홍길동}
+2020년 11월 3일
+{장영재}
