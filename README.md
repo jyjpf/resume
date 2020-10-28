@@ -7,7 +7,7 @@ Photo      | Future
 ![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg) | ![](https://raw.github.com/rhiokim/resume/master/photos/picasso.jpg) + ![](https://raw.github.com/rhiokim/resume/master/photos/beethoven.jpg)
 홍길동
  - English | Rhio Kim
-Age        | 20 
+ - Age        | 20 
 Birth Day  | YYYY.MM.DD
 Email      | my.email@gmail.com
 Mobile     | xxx-xxxx-xxxx
