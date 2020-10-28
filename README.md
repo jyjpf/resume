@@ -4,7 +4,7 @@
 
 Photo      |
 -----------|
-![](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg)
+![](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg width=400 heigh=200)
 장영재
  - English | Young jae Jang
  - Age        | 24
