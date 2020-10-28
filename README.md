@@ -2,7 +2,6 @@
 
 ###### 기본정보  
 
------------|--------------
 Name       | 장영재
  - English | Young jae Jang
 Age        | 24
