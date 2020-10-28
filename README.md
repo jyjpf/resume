@@ -2,11 +2,15 @@
 
 ###### 기본정보  
 
-Name       | 장영재
- - English | Young jae Jang
-Age        | 24
-Birth Day  | 1997.09.08
-Email      | piano908@naver.com
+Photo      | Future
+-----------|--------------
+![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg) | ![](https://raw.github.com/rhiokim/resume/master/photos/picasso.jpg) + ![](https://raw.github.com/rhiokim/resume/master/photos/beethoven.jpg)
+홍길동
+ - Chinese | 金良洹 
+ - English | Rhio Kim
+Age        | 20 
+Birth Day  | YYYY.MM.DD
+Email      | my.email@gmail.com
 Mobile     | xxx-xxxx-xxxx
 
 
