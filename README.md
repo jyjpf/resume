@@ -5,14 +5,13 @@
  - English | Young jae Jang
  - Age        | 24
  - Birth Day  | 1997.09.08
- - Email      | my.email@gmail.com
- - Mobile     | xxx-xxxx-xxxx
+ - Email      | piano908@naver.com
   
 ###### 학력정보
 
 Level       | School Name    | Major            | Start   | End     | 최종학력
 ------------|----------------|------------------|---------|---------|--------
-University  | 한림대학교  | 콘텐츠IT | 2020.03 | YYYY.MM |  
+University  | 한림대학교  | 콘텐츠IT | 2020.03 | YYYY.MM |  재학
 University  | 유원대  | 미디어콘텐츠 | 2016.03 | 2017.12  | 자퇴
 High School | 덕수고 |       문과           | 2013.03 | 2016.02 | 졸업 |
 middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
@@ -22,39 +21,6 @@ Period            | Company      | Part > Team
 ------------------|--------------|-----------------------------
 2017.08 - 2017.09  | creative-band | 인턴
 
-
-  
-## 오픈소스 프로젝트 <small>(2020.07 ~ 현재)</small>
-* 프로젝트 공식 명칭
-  - 소개  
-  > 프로젝트에 대한 간략한 소개를 한다.  
-  - 주요기능  
-  > * 주요 기능을 일일이 상세히 나열한다.  
-  - 사용기술    
-  > * 사용된 기술을 상세히 나열한다.  
-  
-  - 개발기간 : 2013.2.3 을 시작으로 최근까지 [xxx 커밋](https://github.com/rhiokim/resume/commits/master)
-  - 공식 사이트 - [http://rhiokim.github.io/resume](http://rhiokim.github.io/resume)
-  - 소스 저장소 - [https://github.com/rhiokim/resume](https://github.com/rhiokim/resume)  
-  
-* 마크다운 이력서 표준화 프로젝트
-  - 소개  
-  > 이력서에 대한 몇가지 불편한 마음을 개선하고자 마크다운 이력서 표준화 프로젝트를 시작한다.   
-  > 1. 개발자를 잘 표현할 이력서 양식이 없다.   
-  > 2. 2,3 년에 한번씩 업데이트 해야하는 이력서 너무 힘들다.  
-  > 3. 이력서 양식이 도구에 너무 의존적이다.  
-  
-  - 주요기능  
-  > * 마크다운으로 기술한다.  
-  > * PDF, HTML, EPUB, Mobi 등 다양한 포맷으로 변환할 수 있다.  
-  > * 개발자를 잘 표현할 수 있다.  
-  
-  - 사용기술  
-  > 마크다운.  
-  - 개발기간 : 2012.3 을 시작으로 약 6개월에 걸쳐 500여 커밋  
-  - 공헌자 : [https://github.com/rhiokim/resume/contributors](https://github.com/rhiokim/resume/contributors)
-  - 공식 사이트 - [http://rhiokim.github.io/resume](http://rhiokim.github.io/resume)
-  - 소스 저장소 - [https://github.com/rhiokim/resume](https://github.com/rhiokim/resume)
   
   
 ### 기타 공개/비공개 프로젝트
