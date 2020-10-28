@@ -1,11 +1,7 @@
 ## 개인 정보
 
-###### 기본정보  
-
-      |
------------|
-![](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg)
-장영재
+###### 기본정보 
+ - 이름 | 
  - English | Young jae Jang
  - Age        | 24
  - Birth Day  | 1997.09.08
