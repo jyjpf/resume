@@ -4,7 +4,7 @@
 
 Photo      |
 -----------|
-![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg) | ![](https://raw.github.com/rhiokim/resume/master/photos/picasso.jpg) + ![](https://raw.github.com/rhiokim/resume/master/photos/beethoven.jpg)
+![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg)
 홍길동
  - English | Rhio Kim
  - Age        | 20 
