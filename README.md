@@ -16,8 +16,8 @@ Photo      |
 
 Level       | School Name    | Major            | Start   | End     | 최종학력
 ------------|----------------|------------------|---------|---------|--------
-University  | 한림대학교  | 콘텐츠IT | 2020.03 | YYYY.MM |  재학
-University  | 유원대  | 미디어콘텐츠 | 2016.03 | 2017.12  | 편입
+University  | 한림대학교  | 콘텐츠IT | 2020.03 | YYYY.MM |  
+University  | 유원대  | 미디어콘텐츠 | 2016.03 | 2017.12  | 자퇴
 High School | 덕수고 |       문과           | 2013.03 | 2016.02 | 졸업 |
 middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
 
@@ -79,29 +79,19 @@ Period            | Company      | Part > Team
 
 ## 참여한 프로젝트 이력
 
-#### 회사명 1
+#### 유원대학교
 * 프로젝트
   - 소개  
-  > 프로젝트에 대한 간략한 소개를 한다.  
+  > 유원대학교 SNS 블로그 홈페이지 제작  
   - 역할  
-  > * 자기가 참여한 프로젝트에서 했던 역할에 대해서 기술한다.  
+  > 학교 교수님 서버에 워드프레스 설치 후 UI설계를 위한 테마 선택, 테마 선택 후 유원대학교 SNS 블로그 메뉴 및 콘텐츠 기획
+    콘텐츠 관련 업로드
   - 사용기술  
-  > * Backbone.js, jQuery, require.js, grunt.js, twitter bootstrap, Node.js 등  
-  - 개발기간: 12개월  
-  - 공식 사이트: https://project.com  
-  - 소스 저장소: https://github.com/company/project  
+  > * Maria DB, Ubuntu, php5, apache, phpmyadmin, wordpress,
+  - 개발기간: 10개월  
+  - 소스 저장소: http://pano908.cafe24.com/%ec%9c%a0%ec%9b%90%eb%8c%80%ed%95%99%ea%b5%90-sns%eb%b8%94%eb%a1%9c%ea%b7%b8-%eb%aa%a8%eb%b0%94%ec%9d%bc%eb%b2%84%ec%a0%84/
+  - 소스 저장소2: http://pano908.cafe24.com/%ec%9c%a0%ec%9b%90%eb%8c%80%ed%95%99%ea%b5%90-sns%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91/
 
-#### 회사명 2
-* 프로젝트  
-  - 소개  
-  > 프로젝트에 대한 간략한 소개를 한다.  
-  - 역할  
-  > * 자기가 참여한 프로젝트에서 했던 역할에 대해서 기술한다.  
-  - 사용기술  
-  > * Backbone.js, jQuery, require.js, grunt.js, twitter bootstrap, Node.js 등
-  - 개발기간: 6개월  
-  - 공식 사이트: https://project.com  
-  - 소스 저장소: https://github.com/company/project  
 
 
 
