@@ -6,7 +6,6 @@ Photo      | Future
 -----------|--------------
 ![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg) | ![](https://raw.github.com/rhiokim/resume/master/photos/picasso.jpg) + ![](https://raw.github.com/rhiokim/resume/master/photos/beethoven.jpg)
 홍길동
- - Chinese | 金良洹 
  - English | Rhio Kim
 Age        | 20 
 Birth Day  | YYYY.MM.DD
