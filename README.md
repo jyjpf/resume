@@ -29,7 +29,7 @@ Religion   | 없음
 Level       | School Name    | Major            | Start   | End     | 최종학력
 ------------|----------------|------------------|---------|---------|--------
 University  | 한림대학교  | 콘텐츠IT | 2020.03 | YYYY.MM |  재학
-University  | 유원대  | 미디어콘텐츠 | 2016.03 | 2017.12 | graduated | 편입
+University  | 유원대  | 미디어콘텐츠 | 2016.03 | 2017.12  | 편입
 High School | 덕수고 |       문과           | 2013.03 | 2016.02 | 졸업 |
 middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
 
