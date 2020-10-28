@@ -11,18 +11,6 @@ Photo      |
  - Birth Day  | 1997.09.08
  - Email      | my.email@gmail.com
  - Mobile     | xxx-xxxx-xxxx
-
-
-###### 신상정보
-
-Profile    | Content
------------|--------------------------------------
-Address    | 서울 강남구 역삼동 123-12 아파트 304층 3041호
-Mobile     | xxx-xxxx-xxxx
-Married    | 기혼 or 미혼
-Family     | 1남 2녀
-Blood type | RH+ A
-Religion   | 없음
   
 ###### 학력정보
 
@@ -118,30 +106,19 @@ Period            | Company      | Part > Team
 
 
 ## 대외 활동 내역
-#### 커뮤니티
-커뮤니티명     | 주제     | 관련 참고 자료
+#### K-Mooc
+과목 | 이수 날짜     | 이수증
 ------------|---------|-----------------------------
 2010.05     | Title   | http://slidesha.re/xxxxxx
 2010.10     | Title   | http://scr.bi/xxxxxxx
 
-#### 세미나
-행사 / 모임      |   주제                |  규모   | 관련 참고 자료
----------------|---------------------|--------|----------------------
-XX R&D Campus  | 1. subject 1        | 30     | http://bit.ly/xxxxxx
-               | 2. subject 2        |        | http://bit.ly/xxxxxx
-
-#### 컨퍼런스, 강연
-행사 / 모임        |   주제        |  규모   | 관련 참고 자료
-----------------|--------------|--------|----------------------
-Conference      | Title        | 250    | http://bit.ly/xxxxxx
-Conference      | Title        | 1,000  | http://bit.ly/xxxxxx
 
 ## 소셜
 Site     | URL
 ---------|-------------------------------
-Github   | https://github.com/{account}
-Twitter  | https://twitter.com/{account}
-Facebook | https://facebook.com/{account}
+Github   | https://github.com/jyjpf
+ATinvention | http://pano908.cafe24.com/
+
 
 <br><br>
 ---
