@@ -6,9 +6,9 @@ Photo      |
 -----------|
 ![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg)
 홍길동
- - English | Rhio Kim
- - Age        | 20 
- - Birth Day  | YYYY.MM.DD
+ - English | Young jae Jang
+ - Age        | 24
+ - Birth Day  | 1997.09.08
  - Email      | my.email@gmail.com
  - Mobile     | xxx-xxxx-xxxx
 
@@ -26,10 +26,12 @@ Religion   | 없음
   
 ###### 학력정보
 
-Level       | School Name    | Major            | Start   | End     | Status    | 최종학력
-------------|----------------|------------------|---------|---------|-----------|--------
-University  | xx University  | Computer Science | YYYY.MM | YYYY.MM | graduated | 최종
-High School | xx High School |                  | YYYY.MM | YYYY.MM | graduated |
+Level       | School Name    | Major            | Start   | End     | 최종학력
+------------|----------------|------------------|---------|---------|--------
+University  | xx University  | Computer Science | YYYY.MM | YYYY.MM |  최종
+University  | 유원대  | 미디어콘텐츠 | 2016.03 | YYYY.MM | graduated | 최종
+High School | 덕수고 |       문과           | 2013.03 | 2016.02 | graduated |
+middle School | 행당중 |                  | 2010.03 | 2013.02 | graduated |
 
 ### 직장이력
 Period            | Company      | Part > Team                    
