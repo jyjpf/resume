@@ -106,7 +106,7 @@ Period            | Company      | Part > Team
 2019.6.28 | 감성미디어를 통한 인터랙티브 스토리텔링(단국대) | ![](https://steemitimages.com/DQmeo.../image.png)
 2019.7.24 | 앙트러프러너십: 스타트업에 도전하는 길(울산대) |
 
-
+![title](https://github.com/jyjpf/resume/blob/main/picture/KakaoTalk_20201028_183404429.jpg){: width="100" height="100"}
 ## 소셜
 Site     | URL
 ---------|-------------------------------
