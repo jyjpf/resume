@@ -62,6 +62,8 @@ Period            | Company      | Part
 2019.6.28 | 감성미디어를 통한 인터랙티브 스토리텔링(단국대) | Y
 2019.7.24 | 앙트러프러너십: 스타트업에 도전하는 길(울산대) | Y
 
+## K-Mooc 이수증
+![](https://github.com/jyjpf/resume/blob/main/picture/%EA%B9%83%ED%97%88%EB%B8%8C.jpg)
 
 ## 소셜
 Site     | URL
