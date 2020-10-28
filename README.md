@@ -17,7 +17,7 @@ High School | 덕수고 |       문과           | 2013.03 | 2016.02 | 졸업 |
 middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
 
 ### 직장이력
-Period            | Company      | Part > Team                    
+Period            | Company      | Part                    
 ------------------|--------------|-----------------------------
 2017.08 - 2017.09  | creative-band | 인턴
 
