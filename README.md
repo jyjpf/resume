@@ -1,4 +1,4 @@
-이름 | 장영재
+ - 이름 | 장영재
  - English | Young jae Jang
  - Age        | 24
  - Birth Day  | 1997.09.08
