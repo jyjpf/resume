@@ -44,10 +44,23 @@ Period            | Company      | Part
   > 학교 교수님 서버에 워드프레스 설치 후 UI설계를 위한 테마 선택, 테마 선택 후 유원대학교 SNS 블로그 메뉴 및 콘텐츠 기획
     콘텐츠 관련 업로드
   - 사용기술  
-  > * Maria DB, Ubuntu, php5, apache, phpmyadmin, wordpress,
-  - 개발기간: 10개월  
+  > * Maria DB, Ubuntu, php5, apache, phpmyadmin, wordpress,html
+  - 개발기간: 4개월  
   - 소스 저장소: http://pano908.cafe24.com/%ec%9c%a0%ec%9b%90%eb%8c%80%ed%95%99%ea%b5%90-sns%eb%b8%94%eb%a1%9c%ea%b7%b8-%eb%aa%a8%eb%b0%94%ec%9d%bc%eb%b2%84%ec%a0%84/
   - 소스 저장소2: http://pano908.cafe24.com/%ec%9c%a0%ec%9b%90%eb%8c%80%ed%95%99%ea%b5%90-sns%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91/
+  
+  #### SeedsSoft
+* 프로젝트
+  - 소개  
+  > 설문조사 유지 보수 맻 개발
+  - 역할  
+  > 백엔드 수정, 설문조사 관련 기술 개발
+    콘텐츠 관련 업로드
+  - 사용기술  
+  > * J-query, mysql, html, javascript,java,mybatis
+  - 개발기간: 10개월  
+
+
 
 
 
