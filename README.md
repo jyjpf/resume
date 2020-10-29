@@ -90,4 +90,4 @@ facebook | https://www.facebook.com/ATInvention/
 위의 자기소개서는 사실임을 증명합니다.
 
 2020년 11월 3일
-{장영재}
+장영재
