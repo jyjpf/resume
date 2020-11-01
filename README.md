@@ -11,7 +11,7 @@ Level       | School Name    | Major            | Start   | End     | 최종학�
 University  | 한림대  | 콘텐츠IT | 2020.03 | YYYY.MM |  재학
 University  | 유원대  | 미디어콘텐츠 | 2016.03 | 2020.01  | 자퇴
 High School | 덕수고 |       문과           | 2013.03 | 2016.02 | 졸업 |
-middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
+Middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
 
 ### 직장이력
 Period            | Company      | Part                    
@@ -62,6 +62,7 @@ Period            | Company      | Part
   - 소스 저장소2: http://pano908.cafe24.com/%ec%9c%a0%ec%9b%90%eb%8c%80%ed%95%99%ea%b5%90-sns%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91/
   
   #### SeedsSoft
+  
 * 프로젝트
   - 소개  
   > 설문조사 유지 보수 맻 개발
@@ -70,7 +71,6 @@ Period            | Company      | Part
     콘텐츠 관련 업로드
   - 사용기술  
   > * J-query, mysql, html, javascript,java,mybatis
-  - 개발기간: 10개월  
 
 
 
