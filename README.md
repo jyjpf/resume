@@ -24,13 +24,12 @@ Period            | Company      | Part
 > - Eclipse
 > - 전자정부프레임워크
 
-* 사용 가능한 프로그래밍 툴
-> - VS Code
-> - Spring boot
-> - Eclipse
-> - 전자정부프레임워크
-
-
+* 사용 가능한 언어
+> - Java
+> - JavaScript
+> - Mysql
+> - Jquery
+> - Vue.js
 
 ### 기타 공개/비공개 프로젝트
 * 프로젝트 명  
