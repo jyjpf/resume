@@ -62,8 +62,7 @@ Period            | Company      | Part
   - 소스 저장소: http://pano908.cafe24.com/%ec%9c%a0%ec%9b%90%eb%8c%80%ed%95%99%ea%b5%90-sns%eb%b8%94%eb%a1%9c%ea%b7%b8-%eb%aa%a8%eb%b0%94%ec%9d%bc%eb%b2%84%ec%a0%84/
   - 소스 저장소2: http://pano908.cafe24.com/%ec%9c%a0%ec%9b%90%eb%8c%80%ed%95%99%ea%b5%90-sns%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91/
   
-  #### SeedsSoft
-  
+#### SeedsSoft
 * 프로젝트
   - 소개  
   > 설문조사 유지 보수 맻 개발
