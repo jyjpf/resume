@@ -27,9 +27,10 @@ Period            | Company      | Part
 * 사용 가능한 언어
 > - Java
 > - JavaScript
-> - Mysql
-> - Jquery
-> - Vue.js
+> - Sql
+> - html
+> - Css
+> - Python
 
 ### 기타 공개/비공개 프로젝트
 * 프로젝트 명  
