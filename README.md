@@ -104,7 +104,7 @@ Period            | Company      | Part
 
 ## K-Mooc 이수증
 ![](https://github.com/jyjpf/resume/blob/main/picture/%EA%B9%83%ED%97%88%EB%B8%8C.jpg)
-![](https://github.com/jyjpf/resume/blob/main/picture/TRIZ%EC%BA%A0%ED%94%84.jpg)
+![](https://github.com/jyjpf/resume/blob/main/picture/%EB%8C%80%EC%A7%80%201-100.jpg)
 ## 소셜
 Site     | URL
 ---------|-------------------------------
