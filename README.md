@@ -3,6 +3,7 @@
  - Age        | 24
  - Birth Day  | 1997.09.08
  - Email      | piano908@naver.com
+ - Linkedin   | <https://www.linkedin.com/in/%EC%98%81%EC%9E%AC-young-jae-%EC%9E%A5-jang-086958170/>
 
 ###### 학력정보
 
