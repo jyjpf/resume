@@ -1,6 +1,6 @@
  - 이름 | 장영재
  - English | Young jae Jang
- - Age        | 24
+ - Age        | 25
  - Birth Day  | 1997.09.08
  - Email      | piano908@naver.com
  - Linkedin   | <https://www.linkedin.com/in/%EC%98%81%EC%9E%AC-young-jae-%EC%9E%A5-jang-086958170/>
@@ -18,6 +18,8 @@ Middle School | 행당중 |                  | 2010.03 | 2013.02 | 졸업 |
 Period            | Company      | Part                    
 ------------------|--------------|-----------------------------
 2017.08 - 2017.09  | creative-band | 인턴
+2020.12.28 - 2021.02.24 | (주)스타랩스 | 인턴
+2021.04.28 - 현재 | 자버 | QA엔지니어
 
 * 사용 가능한 프로그래밍 툴
 > - VS Code
